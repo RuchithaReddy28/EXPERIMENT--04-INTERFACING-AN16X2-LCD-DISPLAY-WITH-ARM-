@@ -173,11 +173,11 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 
 
 ## STM 32 CUBE PROGRAM :
-~
-NAME:R.HEMAPRIYA
-REG.NO:212221230043
-~
-~
+```
+NAME:AKKIREDDY RUCHITHA REDDY
+REG.NO:212221230004
+```
+```
 #include "main.h"
 #include "lcd.h"
 void SystemClock_Config(void);
@@ -200,7 +200,7 @@ int main(void)
   }
 }
 
-~
+```
 
 
 ## Output screen shots of proteus  :
