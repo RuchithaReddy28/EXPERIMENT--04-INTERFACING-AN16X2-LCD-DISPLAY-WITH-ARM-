@@ -211,7 +211,7 @@ int main(void)
   ![image](https://github.com/RuchithaReddy28/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/blob/main/IMG-20230502-WA0017.jpg?raw=true)
 
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
-![image](https://user-images.githubusercontent.com/94184828/234642003-0358fc35-704d-4982-aae9-3e39b358ff0c.png)
+![image](https://github.com/RuchithaReddy28/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/blob/main/a.jpg?raw=true)
 
  
 ## Result :
